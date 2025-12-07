@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.dbclient-js": "javascript",
+    "*.h": "cpp",
+    "system_error": "cpp"
+  },
+  "C_Cpp.default.includePath": [
+    "D:/improve/laoli_laoli_laolishijiandao/include" // 双保险设置
+  ],
+  "terminal.integrated.shell.windows": "cmd.exe",
+  "cmake.configureOnOpen": false
+}

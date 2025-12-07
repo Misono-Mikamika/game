@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Tetris",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/bin/tetris.exe",
+      "preLaunchTask": "Build Tetris",
+      "cwd": "${workspaceFolder}",
+      "externalConsole": true,
+      "MIMode": "gdb"
+    }
+  ]
+}
